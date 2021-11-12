@@ -24,3 +24,8 @@ threadpoolctl==3.0.0
 Werkzeug==2.0.2
 xgboost==1.5.0
 gunicorn==20.1.0
+seaborn
+ipykernel
+plotly
+missingno
+nbformat
