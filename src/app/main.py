@@ -13,7 +13,7 @@ basic_auth = BasicAuth(app)
 # def load_model(file_name):
 #     return pickle.load(open(file_name, "rb"))
 
-# modelo = load_model('models/xgboost_undersampling.pkl')
+# modelo = load_model('.\models\modelo_gnb.pkl')
 
 # Rota para utilização de modelo treinado para predição
 @app.route('/predict/', methods=['POST'])
